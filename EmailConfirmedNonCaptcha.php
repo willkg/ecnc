@@ -1,4 +1,4 @@
-?php
+<?php
 /**
  * A non-captcha plugin that requires emailconfirmed.
  *
